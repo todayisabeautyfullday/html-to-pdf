@@ -1,0 +1,2 @@
+wkhtmltopdf==0.2
+pdfkit==1.0.0
